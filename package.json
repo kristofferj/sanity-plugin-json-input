@@ -1,0 +1,29 @@
+{
+  "name": "sanity-plugin-json-input",
+  "version": "0.1.0",
+  "description": "Ace editor for objects in sanity",
+  "main": "lib/index.js",
+  "author": "Kristoffer Sivertsen <kristoffer@sanity.io>",
+  "license": "MIT",
+  "keywords": [
+    "sanity",
+    "cms",
+    "headless",
+    "realtime",
+    "content",
+    "json-input",
+    "sanity-plugin"
+  ],
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "react-ace": "^5.0.1"
+  },
+  "bugs": {
+    "url": "https://github.com/sanity-io/sanity/issues"
+  },
+  "homepage": "https://www.sanity.io/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanity-io/sanity.git"
+  }
+}

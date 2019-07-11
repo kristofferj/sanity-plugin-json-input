@@ -1,0 +1,20 @@
+{
+  "paths": {
+    "source": "./src",
+    "compiled": "./lib"
+  },
+  "parts": [
+    {
+      "name": "part:@sanity/form-builder/input/json",
+      "description": "Edit objects with JSON in sanity"
+    },
+    {
+      "implements": "part:@sanity/form-builder/input/json",
+      "path": "JSONInput.js"
+    },
+    {
+      "implements": "part:@sanity/base/schema-type",
+      "path": "schema.js"
+    }
+  ]
+}
