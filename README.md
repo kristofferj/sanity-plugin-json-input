@@ -2,6 +2,9 @@
 
 Edit objects with JSON in [Sanity](https://sanity.io/).
 
+## Note
+This only syncs to sanity when the JSON-input is valid
+
 
 ## Installation
 
